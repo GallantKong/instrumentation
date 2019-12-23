@@ -1,0 +1,3 @@
+org\gallant\instrumentation\agent\MyAgent.class
+org\gallant\instrumentation\agent\MyTransformer.class
+org\gallant\instrumentation\agent\StackPrintUtil.class
